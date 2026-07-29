@@ -1,0 +1,28 @@
+date_format = "January 2006"
+
+
+copyright = "Copyright (c) 2005 - 2024, Accola SRL; all rights reserved."
+address = """<p class="text-uppercase"><strong>Accola Srl.</strong>
+    <br>39/4 Boulevard Bishoffsheim
+    <br>1000
+    <br>Brussels, <strong>Belgium</strong>
+    </p>
+    """
+about_us = "Accola is a structured finance boutique established in 2008."
+
+[testimonials]
+    title = "Testimonials"
+
+[features]
+    title = "Who we are"
+    subtitle = "Accola is a financial consulting firm founded in 2008, specialising in asset securitisation across all asset types (trade receivables, inventories, leasing, consumer loans etc). We aim to secure the following benefits for our clients:"
+
+
+[recent_posts]
+  enable = true
+  title = "Latest News"
+  hide_summary = false
+
+[clients]
+  enable = true
+  title = "Our Clients"

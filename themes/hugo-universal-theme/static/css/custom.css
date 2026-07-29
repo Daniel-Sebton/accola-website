@@ -1,0 +1,13 @@
+.box-image-text .image {
+  min-height: 120px;
+  max-height: 120px;
+}
+
+.box-image-text .image img {
+  max-height: 190px;
+  margin: auto;
+}
+
+.box-simple {
+  min-height: 35px;
+}

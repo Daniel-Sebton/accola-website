@@ -1,0 +1,54 @@
+[[main]]
+name = "Home"
+pageRef = "/"
+identifier = "menu.home"
+weight = 1
+
+[[main]]
+name = "About Us"
+pageRef = "about"
+identifier = "menu.about"
+weight = 2
+
+[[main]]
+name = "Our Business Model"
+url = "/values"
+weight = 1
+parent = "menu.about"
+
+[[main]]
+name = "Our Management Team"
+url = "/team"
+weight = 2
+parent = "menu.about"
+
+[[main]]
+name = "What is Securitisation?"
+url = "/securitisation"
+weight = 3
+parent = "menu.about"
+
+[[main]]
+name = "Insights"
+pageRef = "news"
+identifier = "menu.news"
+weight = 3
+[[main]]
+name = "Case Studies"
+pageRef = "/categories/case-studies"
+parent = "menu.news"
+weight = 1
+[[main]]
+name = "Publications"
+pageRef = "/categories/publications"
+parent = "menu.news"
+weight = 2
+
+[[main]]
+name = "Contact Us"
+pageRef = "contact"
+identifier = "menu.contact"
+weight = 4
+
+[[footer]]
+none = "none"

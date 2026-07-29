@@ -1,0 +1,13 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Accola - Financing Experts"
+
+[params]
+    displayName = "English"
+    isoCode = "en"
+    rtl = false
+    date_format = "2 January 2006"
+
+[author]
+    name = "Daniel Sebton"

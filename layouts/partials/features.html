@@ -1,0 +1,36 @@
+{{ if isset .Site.Params "features" }}
+{{ if .Site.Params.features.enable }}
+{{ with index .Site.Data.features .Site.Language.Lang }}
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ $.Site.Params.features.title }}</h2>
+                </div>
+
+                <p class="lead text-center">
+                    {{ $.Site.Params.features.subtitle | markdownify }}
+                </p>
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    {{ range . }}
+                    <li class="item">
+                        <div class="box-simple">
+                                <div class="icon">
+                                    <img src="{{ .icon }}" style="max-width:60px;width:100%">
+                                </div>
+                            <b><p style="margin-top: 10px;">{{ .title | markdownify }}</p></b>
+                        </div>
+                        <p style="text-align:left">{{ .description | markdownify }}</p>
+                    </li>
+                    {{ end }}
+                </ul> <!-- /.owl-carousel -->
+
+            </div>
+        </div>
+    </div>
+</section> <!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}

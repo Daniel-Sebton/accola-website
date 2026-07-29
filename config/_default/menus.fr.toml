@@ -1,0 +1,54 @@
+[[main]]
+name = "Accueil"
+pageRef = "/"
+identifier = "menu.home"
+weight = 1
+
+[[main]]
+name = "À Propos"
+pageRef = "a-propos"
+identifier = "menu.a-propos"
+weight = 2
+
+[[main]]
+    name       = "Nos Valeurs"
+    pageRef    = "values"
+    weight     = 1
+    parent     = "menu.a-propos"
+
+[[main]]
+    name       = "Notre Équipe"
+    pageref    = "team"
+    weight     = 2
+    parent     = "menu.a-propos"
+
+[[main]]
+    name       = "Qu'est-ce que la titrisation ?"
+    pageref    = "securitisation"
+    weight     = 3
+    parent     = "menu.a-propos"
+
+[[main]]
+name = "Actualités"
+pageRef = "record"
+identifier = "menu.news"
+weight = 3
+[[main]]
+name = "Case Studies"
+pageRef = "/categories/case-studies"
+parent = "menu.news"
+weight = 1
+[[main]]
+name = "Publications"
+pageRef = "/categories/publications"
+parent = "menu.news"
+weight = 2
+
+[[main]]
+name = "Prendre Contact"
+pageRef = "contact"
+identifier = "menu.contact"
+weight = 4
+
+[[footer]]
+none = "none"

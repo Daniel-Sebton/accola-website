@@ -1,0 +1,13 @@
+locale = "fr"
+label = "Français"
+weight = 1
+title = "Accola - Experts en Financement"
+
+
+[params]
+    displayName = "Français"
+    isoCode = "fr"
+    rtl = false
+
+[author]
+    name = "Daniel Sebton"

@@ -1,0 +1,25 @@
+date_format = "January 2006"
+copyright = "Copyright (c) 2005 - 2024, Accola SRL; Tous droits réservés."
+address = """<p class="text-uppercase"><strong>Accola Srl.</strong>
+    <br>39/4 Boulevard Bishoffsheim
+    <br>1000
+    <br>Bruxelles, <strong>Belgique</strong>
+    </p>
+    """
+about_us = "<p>Accola est une entreprise de conseil en financement fondée en 2008.</p>"
+
+[testimonials]
+    title = "Témoignages"
+
+[features]
+    title = "Qui sommes nous ?"
+    subtitle = "Accola est une entreprise de conseil en financement fondée en 2008. Nous sommes spécialistes de la titrisation d’actifs. Nous proposons également des solutions innovantes de financement des midcaps. Nous aidons nos clients à :"
+
+[recent_posts]
+  enable = true
+  title = "Actualités"
+  hide_summary = false
+
+[clients]
+  enable = true
+  title = "Nos Clients"

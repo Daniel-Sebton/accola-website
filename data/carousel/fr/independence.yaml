@@ -1,0 +1,12 @@
+weight: 4
+title: "Indépendance"
+description: >
+  <ul class="list-style-none">
+  Nous sommes des conseillers indépendants : nous n’entretenons aucun lien particulier avec des banques, investisseurs, cabinets d’avocats ou sociétés de gestion. 
+  </ul>
+  <ul>
+  Nous aidons simplement nos clients à tirer le meilleur parti possible de leurs financements.
+  </ul>
+  <ul> 
+image: "/img/carousel/man-standing-on-mountain.jpg"
+href: "https://devcows.github.io/hugo-universal-theme/"

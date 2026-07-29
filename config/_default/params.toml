@@ -1,0 +1,139 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = false
+replyByEmail = false
+disableImageOptimization = false
+disableTextInHeader = false
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "black_city_by_mrwho25_d1tyux6.jpg' "
+robots = "none"
+disableImageZoom = true
+viewMorePostLink = "/record/"
+
+
+
+logo_text = "Accola"
+contact_url = "/contact"
+dropdown_mouse_over = true
+
+# Formspree
+email = "x.allexio@gmail.com"
+formspree_action = "https://formspree.io/f/mjkvwdre"
+contact_form_ajax = true
+
+# Maps API
+enableGoogleMaps = false
+
+latitude = "50.85258431507999"
+longitude = "4.366531033425757"
+direction = "Accola Srl. 39/4 Boulevard Bishoffsheim"
+
+
+logo = "/img/accola-logo.png"
+logo_small = "/img/accola-logo-small.png"
+
+[header]
+  layout = "basic"
+
+[widgets]
+  search = false
+  categories = true
+  tags = true
+
+[carousel]
+  enable = true
+
+[features]
+    enable = true
+    title = "Features"
+    subtitle = "Testytest"
+
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[footer.recent_posts]
+  enable = false
+
+[homepage]
+  layout = "profile"
+  showRecent = false
+  showRecentItems = 5
+  showMoreLink = false
+  showMoreLinkDest = "/posts"
+  cardView = "3"
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false
+  homepageImage = "photo_pro_1.JPG"
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = false
+  showAuthor = false
+  showHero = false
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = true
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = false
+  showAuthorsBadges = false
+  showWordCount = true
+  showZenMode = false
+
+[list]
+  showAuthor = false
+  showHero = false
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = true
+  showBreadcrumbs = false
+  showSummary = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  showCards = false
+  orderByWeight = false
+  groupByYear = true
+  cardView = false
+  cardViewScreenWidth = false
+  constrainItemsWidth = false
+
+[sitemap]
+  excludedKinds = []
+
+[author]
+  name = "Daniel Sebton"
+
+[firebase]
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[selineAnalytics]
+
+[buymeacoffee]
+
+[verification]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
