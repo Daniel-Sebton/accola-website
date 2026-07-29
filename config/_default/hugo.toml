@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "hugo-universal-theme" # UNCOMMENT THIS LINE
-baseURL = "https://accola.srl/"
+baseURL = "https://daniel-sebton.github.io/accola-website/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -65,3 +65,7 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
