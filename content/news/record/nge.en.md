@@ -3,7 +3,7 @@ title: "NGE - €430m - Trade Receivables Securitisation"
 date: "2024-06-29"
 tags: ["Trade Receivables"]
 categories: ["Case Studies"]
-banner: "/img/clients/NGE logo.jpg"
+banner: "/img/clients/Logo-NGE.svg"
 summary: "Accola supports NGE in the re-negotiation of its trade receivables securitisation programme following its acquisition of SADE."
 ---
 
