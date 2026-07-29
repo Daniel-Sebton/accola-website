@@ -17,16 +17,17 @@
                     {{ range . }}
                     <li class="item">
                         <div class="box-simple">
-                                <div class="icon">
-                                    <img src="{{ .icon }}" style="max-width:60px;width:100%">
-                                </div>
-                            <b><p style="margin-top: 10px;">{{ .title | markdownify }}</p></b>
+                            <div class="icon">
+                                <img src="{{ .icon | relURL }}" style="max-width:60px;width:100%">
+                            </div>
+                            <b>
+                                <p style="margin-top: 10px;">{{ .title | markdownify }}</p>
+                            </b>
                         </div>
                         <p style="text-align:left">{{ .description | markdownify }}</p>
                     </li>
                     {{ end }}
                 </ul> <!-- /.owl-carousel -->
-
             </div>
         </div>
     </div>

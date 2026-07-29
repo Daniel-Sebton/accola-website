@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "hugo-universal-theme" # UNCOMMENT THIS LINE
-baseURL = "https://daniel-sebton.github.io/accola-website/"
+baseURL = "https://daniel-sebton.github.io"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

@@ -44,12 +44,21 @@
   <![endif]-->
 ` | safeHTML }}
 
+<!-- Favicon and Apple touch icons-->
+<link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}" type="image/x-icon" />
+<link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png" | relURL }}" />
+
+<!-- owl carousel CSS -->
+<link href="{{ "css/owl.carousel.css" | relURL }}" rel="stylesheet">
+<link href="{{ "css/owl.theme.css" | relURL }}" rel="stylesheet">
+
+<!-- RSS feed -->
+<link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+
 <!-- Facebook OpenGraph tags -->
 {{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}
 {{ $has_image := isset .Params "banner" }}
 {{ $image := cond $has_image .Params.banner (.Site.Params.default_sharing_image | default "img/sharing-default.png") }}
-
-{{/* Handle both remote URLs (http/https) and local files safely */}}
 {{ $is_remote := hasPrefix $image "http" }}
 {{ $is_valid_image := or $is_remote (fileExists (print "static/" $image)) }}
 
@@ -62,7 +71,7 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:description" content="{{ $description_plain }}">
 
-{{/* Handle absURL safely for remote vs local paths */}}
+{{/* Ensure local paths have proper URL formatting */}}
 <meta property="og:image" content="{{ if $is_remote }}{{ $image }}{{ else }}{{ $image | absURL }}{{ end }}">
 
 {{ if ne $image_ext "" }}
@@ -71,16 +80,17 @@
 
 {{ with .Params.banner_alt }}<meta property="og:image:alt" content="{{ . | markdownify | plainify }}">{{ end }}
 
-{{/* imageConfig only works for local files, so we skip it for remote URLs */}}
-{{ if not $is_remote }}
-  {{ $image_local := printf "/static/%s" $image }}
-  {{ with (imageConfig $image_local) }}
-    <meta property="og:image:width" content="{{ .Width }}">
-    <meta property="og:image:height" content="{{ .Height }}">
+{{ if and (not $is_remote) (ne $image_ext ".svg") }}
+  {{/* Ensure static path starts with / for imageConfig */}}
+  {{ $image_local := printf "/static/%s" (strings.TrimPrefix "/" $image) }}
+  {{ with (try (imageConfig $image_local)) }}
+    {{ with .Value }}
+      <meta property="og:image:width" content="{{ .Width }}">
+      <meta property="og:image:height" content="{{ .Height }}">
+    {{ end }}
   {{ end }}
 {{ end }}
 {{ end }}
-
 {{ with .Lastmod }}<meta property="og:updated_time" content="{{ .Format "2006-01-02T15:04:05Z0700" }}">{{ end }}
 {{ if $is_blog }}
   {{ with .Param "facebook_site" }}<meta property="article:publisher" content="https://www.facebook.com/{{ . }}/">{{ end }}
