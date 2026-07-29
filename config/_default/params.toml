@@ -137,3 +137,7 @@ logo_small = "/img/accola-logo-small.png"
   category = "categories"
   tag = "tags"
   author = "authors"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
