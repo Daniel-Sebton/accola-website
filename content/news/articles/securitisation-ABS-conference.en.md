@@ -4,10 +4,10 @@ date: "2026-07-15"
 tags: []
 categories: ["Publications"]
 banner: "img/features/croisee chemins.jpg"
-summary: ""
+summary: "The securitisation market is entering a period of profound change."
 ---
 
-**The securitisation market is entering a period of profound change. From the evolution of regulations to the emergence of new asset classes and the increasing use of artificial intelligence, market players are evolving in an increasingly complex environment.**
+** From the evolution of regulations to the emergence of new asset classes and the increasing use of artificial intelligence, market players are evolving in an increasingly complex environment.**
 
 The topics discussed at the Global ABS 2026 conference in Barcelona highlight some of the challenges ahead. Here are a few of them. 
 
