@@ -1,7 +1,7 @@
 ---
 title: "Spie Batignolles - €400m - Renouvellement et expansion du programme de titrisation"
 date: "2026-07-15"
-tags: ["Créances clients"]
+tags: ["Trade receivables"]
 categories: ["Case Studies"]
 banner: "/img/clients/Spie Batignolles logo.png"
 summary: "Accola conseille le renouvellement du programme de titrisation de Spie Batignolles."

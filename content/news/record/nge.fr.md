@@ -3,7 +3,7 @@ title: "NGE - €430m - Titrisation de Créances Commerciales"
 date: "2024-06-29"
 tags: ["Trade Receivables"]
 categories: ["Case Studies"]
-banner: "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Logo-NGE.svg/langfr-2560px-Logo-NGE.svg.png"
+banner: "/img/clients/Logo-NGE.svg"
 summary: "Accola aide NGE à renégocier son programme de titrisation de créances commerciales suite à l'acquisition de SADE."
 ---
 
