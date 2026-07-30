@@ -3,7 +3,7 @@ title: "Global ABS 2026: securitisation at a crossroads"
 date: "2026-07-15"
 tags: []
 categories: ["Publications"]
-banner: "https://www.istockphoto.com/fr/photo/gouvernance-de-lia-et-utilisation-r%C3%A9active-de-lintelligence-artificielle-gm2207141986-624403378"
+banner: "img/features/croisee chemins"
 summary: ""
 ---
 

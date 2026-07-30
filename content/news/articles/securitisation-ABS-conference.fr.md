@@ -3,7 +3,7 @@ title: "Global ABS 2026 : la titrisation à la croisée des chemins"
 date: "2026-07-15"
 tags: []
 categories: ["Publications"]
-banner: "https://www.istockphoto.com/fr/photo/gouvernance-de-lia-et-utilisation-r%C3%A9active-de-lintelligence-artificielle-gm2207141986-624403378"
+banner: "img/features/croisee chemins"
 summary: "Le marché de la titrisation entre dans une période de profonde mutation. "
 ---
 
