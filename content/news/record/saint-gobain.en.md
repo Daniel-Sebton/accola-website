@@ -3,11 +3,11 @@ title: "SGDBF - €500m - Trade Receivables Securitisation"
 date: "2024-04-29"
 tags: ["Trade Receivables"]
 categories: ["Case Studies"]
-banner: "/img/clients/Saint-Gobain_logo.svg.webp"
+banner: "/img/clients/saint-gobain-logo.png"
 summary: "Accola advises SGDBF on the renewal of its securitisation programme (originally structured with Accola’s support)."
 ---
 
-<img src="/img/clients/Saint-Gobain_logo.svg.webp"/>
+<img src="/img/clients/saint-gobain-logo.png"/>
 
 <br>
 
