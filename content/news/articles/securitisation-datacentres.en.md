@@ -3,7 +3,7 @@ title: "Securitisation, a financing tool for data centers"
 date: "2026-07-15"
 tags: []
 categories: ["Publications"]
-banner: "https://unsplash.com/fr/photos/allee-de-la-salle-des-serveurs-avec-racks-dequipements-metalliques-lVZjvw-u9V8"
+banner: "img/features/Datacenters.jpg"
 summary: ""
 ---
 
