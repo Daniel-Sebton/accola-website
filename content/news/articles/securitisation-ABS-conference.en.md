@@ -3,7 +3,7 @@ title: "Global ABS 2026: securitisation at a crossroads"
 date: "2026-07-15"
 tags: []
 categories: ["Publications"]
-banner: "img/features/croisee chemins"
+banner: "img/features/croisee chemins.jpg"
 summary: ""
 ---
 

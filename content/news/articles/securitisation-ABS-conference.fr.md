@@ -3,7 +3,7 @@ title: "Global ABS 2026 : la titrisation à la croisée des chemins"
 date: "2026-07-15"
 tags: []
 categories: ["Publications"]
-banner: "img/features/croisee chemins"
+banner: "img/features/croisee chemins.jpg"
 summary: "Le marché de la titrisation entre dans une période de profonde mutation. "
 ---
 
