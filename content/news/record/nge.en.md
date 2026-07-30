@@ -7,7 +7,7 @@ banner: "/img/clients/Logo-NGE.svg"
 summary: "Accola supports NGE in the re-negotiation of its trade receivables securitisation programme following its acquisition of SADE."
 ---
 
-<img src="/img/clients/NGE Trackrecord logo.jpg"/>
+<img src="/img/clients/Logo-NGE.svg"/>
 
 <br>
 
