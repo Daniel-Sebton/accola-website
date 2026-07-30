@@ -7,7 +7,7 @@ banner: "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Saint-Gobain_logo.
 summary: "Accola advises SGDBF on the renewal of its securitisation programme (originally structured with Accola’s support)."
 ---
 
-<img src="/img/clients/SaintGobain Trackrecord logo.jpg"/>
+<img src="/img/clients/Saint-Gobain_logo.svg.webp"/>
 
 <br>
 
