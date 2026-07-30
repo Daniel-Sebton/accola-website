@@ -28,7 +28,7 @@ Deux types de structure existent : la titrisation directe des cash flows de leas
 
 L'Europe n'est pas aussi mature que les États-Unis, mais elle devrait croître significativement dans les prochaines années. Deux transactions importantes ont été conclues jusqu'à présent. L'une d'elles est la titrisation de deux centres de données à Cardiff, l’autre, la titrisation de quatre centres de données à Berlin et Francfort. Dans les deux cas l’émetteur est Vantage Data Centers qui ont été pionniers en Europe en 2024, avec une ’émission de GBP600m d’ABS « verts » notés A- par S&P. 
 
-En France, le gouvernement a annoncé un investissement de EUR109Mds dans les data centres, auxquels s’ajoutent les EUR45Mds promis par le japonais Softbank au sommet Choose France de 2026. En 2025, les data centres ont ainsi concentré EUR67Mds d’investissement, soit 42% du total français.  Il est donc très probable, une fois les centres en opération, qu’un potentiel significatif de titrisation se dégage. 
+En France, le gouvernement a annoncé un investissement de EUR109Mds dans les data centres, auxquels s’ajoutent les EUR45Mds promis par le japonais Softbank au sommet Choose France de 2026. En 2025, les data centres ont ainsi concentré EUR67Mds d’investissement.  Il est donc très probable, une fois les centres en opération, qu’un potentiel significatif de titrisation se dégage. 
 
 Depuis 2024, Accola a conseillé cinq grandes entreprises sur la création ou le renouvellement de leurs programmes de titrisation, représentant plus de 2 milliards d'euros. Nous sommes prêts à conseiller le financement du réseau émergent de centres de données. 
  
