@@ -1,5 +1,5 @@
 ---
-title: "Global ABS: securitisation at a crossroads"
+title: "Global ABS 2026: securitisation at a crossroads"
 date: "2026-07-15"
 tags: []
 categories: ["Publications"]
