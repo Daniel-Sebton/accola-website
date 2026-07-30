@@ -3,11 +3,11 @@ title: "SGDBF - €500m - Titrisation de Créances Commerciales"
 date: "2024-04-29"
 tags: ["Trade Receivables"]
 categories: ["Case Studies"]
-banner: "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Saint-Gobain_logo.svg/1200px-Saint-Gobain_logo.svg.png"
+banner: "/img/clients/saint-gobain-logo.png"
 summary: "Accola conseille SGDBF sur le renouvellement de son programme de titrisation existant (initialement structuré avec Accola)."
 ---
 
-<img src="/img/clients/SaintGobain Trackrecord logo.jpg"/>
+<img src="/img/clients/saint-gobain-logo.png"/>
 
 <br>
 
