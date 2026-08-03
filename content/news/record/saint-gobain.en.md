@@ -7,7 +7,7 @@ banner: "/img/clients/saint-gobain-logo.png"
 summary: "Accola advises SGDBF on the renewal of its securitisation programme (originally structured with Accola’s support)."
 ---
 
-<img src="/img/clients/saint-gobain-logo.png"/>
+<img style="width: 300px;" src="/img/clients/saint-gobain-logo.png"/>
 
 <br>
 

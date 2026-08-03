@@ -7,7 +7,7 @@ banner: "/img/clients/Logo-NGE.svg"
 summary: "Accola aide NGE à renégocier son programme de titrisation de créances commerciales suite à l'acquisition de SADE."
 ---
 
-<img src="/img/clients/Logo-NGE.svg"/>
+<img style="width: 500px;" src="/img/clients/Logo-NGE.svg"/>
 
 <br>
 

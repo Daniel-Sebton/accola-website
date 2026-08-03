@@ -7,7 +7,7 @@ banner: "/img/clients/saint-gobain-logo.png"
 summary: "Accola conseille SGDBF sur le renouvellement de son programme de titrisation existant (initialement structuré avec Accola)."
 ---
 
-<img src="/img/clients/saint-gobain-logo.png"/>
+<img style="width: 300px;" src="/img/clients/saint-gobain-logo.png"/>
 
 <br>
 
