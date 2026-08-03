@@ -1,6 +1,7 @@
 ---
 title: "Our Management Team"
 description: "An overview of Accola's leadership team"
+type: "page"
 ---
 
 <div class="container">

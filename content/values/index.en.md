@@ -1,24 +1,7 @@
 ---
 title: "About Us"
 description: "A page to give credit where credit is due!"
-
-showDate : false
-showDateOnlyInArticle : false
-showDateUpdated : false
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : false
-showTaxonomies : false 
-showWordCount : false
-showSummary : false
-sharingLinks : false
-showEdit: false
-showViews: false
-showLikes: false
-showAuthor: false
-layoutBackgroundHeaderSpace: false
-
-
+type: "page"
 ---
 
 <div class="heading">

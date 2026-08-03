@@ -1,7 +1,7 @@
 ---
 title: "About the Website"
 description: "A page to give credit where credit is due!"
-
+type: "page"
 ---
 
 <style>

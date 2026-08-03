@@ -2,7 +2,7 @@
 title: "Notre Équipe Senior"
 description: "Un aperçu de l'équipe de direction d'Accola"
 slug: "équipe"
-
+type: "page"
 ---
 
 <div class="container">

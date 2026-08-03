@@ -2,7 +2,7 @@
 title: "Notre Business Model et nos Valeurs"
 description: "A page to give credit where credit is due!"
 slug: "valeurs"
-
+type: "page"
 ---
 
 <div class="heading">

@@ -1,7 +1,7 @@
 ---
 title: "What is Securitisation?"
 description: "Here we explain what a securitisation is and how it can benefit you."
-
+type: "page"
 ---
 
 <style>

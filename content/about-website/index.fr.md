@@ -2,7 +2,7 @@
 title: "À propos du site web"
 description: "Une page pour accréditer qui de droit"
 slug: "à-propos-du-site"
-
+type: "page"
 ---
 
 <style>
